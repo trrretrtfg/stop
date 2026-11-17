@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Stopwatch",
+    "slug": "stopwatch-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "stopwatch",
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "android": {
+      "package": "com.example.stopwatch"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.stopwatch"
+    }
+  }
+}
